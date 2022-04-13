@@ -1,3 +1,6 @@
+25000 //pengeluaran tiap bulan
+52000 //total pengeluaran
+448000 //uang tabungannya atau uang sisa 	
 500000 //uang saku
 3 //banyak jenis barang
 pensil //nama barang
